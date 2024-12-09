@@ -4,6 +4,11 @@
 ## Kelas : TI.24.A2
 
 
+
+
+
+___
+
 ### Data -> Mahasiswa.py
 
 ![Screenshot (183)](https://github.com/user-attachments/assets/fb5e3558-433e-4bd7-a36f-0472326d0b2a)
