@@ -68,10 +68,6 @@ ___
 
 ### Penjelasan
 
-Kode ini adalah program manajemen data mahasiswa berbasis teks yang menggunakan kelas `Mahasiswa` untuk mengelola data. Berikut adalah penjelasan singkat dan jelas:
-
-### Struktur dan Fungsionalitas:
-
 1. **Kelas `Mahasiswa`:**
    - **Atribut:**
      - `self.data`: List untuk menyimpan data mahasiswa berupa dictionary dengan kunci `'nama'` dan `'nim'`.
