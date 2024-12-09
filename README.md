@@ -40,7 +40,7 @@ ___
 
 ![Screenshot (186)](https://github.com/user-attachments/assets/764518ea-e81d-4ae0-a1bd-471a569091d3)
 
-### penjelasan
+### Penjelasan
 
 1. **`__init__`**: 
    - Inisialisasi atribut `data_mahasiswa` sebagai daftar kosong untuk menyimpan objek `Mahasiswa`.
